@@ -25,3 +25,5 @@ ROC curves on testing data
 
 Tracking the metrics on Weights and Biases: wandb.ai/yogesh174/deeplense-common-test/runs/sbf2383f
 
+### Model
+A Resnet18 is finetuned to this dataset and the trained model weights can found at - https://drive.google.com/file/d/1eBXCzmet0LpOaQCzs4tYzkf4_zewXa1N/view?usp=share_link
