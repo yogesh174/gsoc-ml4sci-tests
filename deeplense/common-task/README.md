@@ -12,7 +12,7 @@ Link to the Dataset: https://drive.google.com/file/d/1B_UZtU4W65ZViTJsLeFfvK-xXC
 
 ROC curve (Receiver Operating Characteristic curve) and AUC score (Area Under the ROC Curve)
 
-The train set is divided in a 90:10 ratio into train and validation datasets. And there is a train set provided.
+The train set is divided in a 90:10 ratio into train and validation datasets. And there is a test set provided.
 
 Validation Accuracy: 94.83% \
 Validation AUC: **0.9946**
@@ -23,7 +23,6 @@ Test AUC: **0.9942**
 ROC curves on testing data
 ![ROC curves](roc-auc.png "ROC curves")
 
-Tracking the metrics on Weights and Biases: wandb.ai/yogesh174/deeplense-common-test/runs/sbf2383f
-
+Tracking the metrics on Weights and Biases: https://wandb.ai/yogesh174/deeplense-common-test/runs/sbf2383f
 ### Model
 A Resnet18 is finetuned to this dataset and the trained model weights can found at - https://drive.google.com/file/d/1eBXCzmet0LpOaQCzs4tYzkf4_zewXa1N/view?usp=share_link
