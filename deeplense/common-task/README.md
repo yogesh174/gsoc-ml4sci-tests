@@ -22,7 +22,7 @@ Test AUC: **0.9942**
 
 ROC curves on testing data:
 
-<img src="roc-auc.png" width="500">
+![ROC curves](roc-auc.png "ROC curves")
 
 Tracking the metrics on Weights and Biases: https://wandb.ai/yogesh174/deeplense-common-test/runs/sbf2383f
 ### Model
