@@ -20,8 +20,9 @@ Validation AUC: **1.00**
 Test Accuracy: 99% \
 Test AUC: **0.9997**
 
-ROC curves on testing data
-<img src="roc-auc.png" width="450">
+ROC curves on testing data:
+
+<img src="roc-auc.png" width="500">
 
 Tracking the metrics on Weights and Biases: https://wandb.ai/yogesh174/deeplense-transformers-test/runs/84ww20jp
 
