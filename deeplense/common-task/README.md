@@ -20,8 +20,9 @@ Validation AUC: **0.9946**
 Test Accuracy: 95.07% \
 Test AUC: **0.9942**
 
-ROC curves on testing data
-![ROC curves](roc-auc.png "ROC curves")
+ROC curves on testing data:
+
+<img src="roc-auc.png" width="500">
 
 Tracking the metrics on Weights and Biases: https://wandb.ai/yogesh174/deeplense-common-test/runs/sbf2383f
 ### Model
