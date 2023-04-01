@@ -14,12 +14,12 @@ MSE (Mean Squared Error), SSIM (Structural Similarity Index), PSNR (Peak Signal-
 
 The given dataset is divided into 80% of training samples, 10% of validation samples and 10% of test samples.
 
-Validation MSE: 0.000234
-Validation PSNR: 36.65
+Validation MSE: 0.000234 \
+Validation PSNR: 36.65 \
 Validation SSIM: 0.974
 
-Test MSE: 0.000230
-Test PSNR: 36.70
+Test MSE: 0.000230 \
+Test PSNR: 36.70 \
 Test SSIM: 0.974
 
 Low Resolution images
